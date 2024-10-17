@@ -22,7 +22,6 @@ We are a community committed to the advancement of technology and computer scien
 ### 📬 Contact Us
 - Email: **ejyarar@itc.edu.co**
 - Discord: [Join here](https://discord.gg/z6rect9z)
-- Social Media: Follow us on **Twitter** and **LinkedIn**
 
 Thank you for your interest in the Computer Society Chapter. Together, we can push the boundaries of technology!
 
@@ -54,7 +53,6 @@ Somos una comunidad comprometida con el avance de la tecnología y la informáti
 ### 📬 Contáctanos
 - Correo: **ejyarar@itc.edu.co**
 - Discord: [Únete aquí](https://discord.gg/z6rect9z)
-- Redes Sociales: Síguenos en **Twitter** y **LinkedIn**
 
 Gracias por tu interés en el Capítulo Computer Society. ¡Juntos podemos llevar la tecnología más allá de los límites!
 
